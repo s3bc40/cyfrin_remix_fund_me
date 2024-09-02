@@ -115,7 +115,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"FundMe.sol": "FundMe"
+			"contracts/FundMe.sol": "FundMe"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -137,15 +137,15 @@
 				"dweb:/ipfs/QmaG6vz6W6iEUBsbHSBob5mdcitYxWjoygxREHpsJHfWrS"
 			]
 		},
-		"FundMe.sol": {
-			"keccak256": "0x2307c71d911ef92503e261d69934cb6f0c5e768be94793cda846c5a982e2037d",
+		"contracts/FundMe.sol": {
+			"keccak256": "0xa01815b7bae5c640553ee404befe743cf00852c8a9604c6cd0351e49a007e102",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1738b56706b439e7f763c89b5f333e622e02517f4f25f64d6fec5e02ce69f639",
-				"dweb:/ipfs/QmX5q6EcbEthGQ58NUcrEqcqJJfVUFMiB9m8tPDMuuYoRf"
+				"bzz-raw://d700a5116f65cfe0d69a5ee886a1a922a6b2f9c0a5fa5d6f5b9f810a710b9d30",
+				"dweb:/ipfs/QmW46nhdYS178wDdKq9MT6djm3GR8ApZWUuEw35mH6Dx4p"
 			]
 		},
-		"PriceConverter.sol": {
+		"contracts/PriceConverter.sol": {
 			"keccak256": "0xd3bd9471afe3c8deb0ef04b3137fa17d9835742077ca6b22de9c7e88df20910e",
 			"license": "MIT",
 			"urls": [
